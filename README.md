@@ -24,7 +24,7 @@ Une application de gestion de tâches premium et moderne, conçue avec une esth�
 1.  **Cloner le dépôt**
     ```bash
     git clone https://github.com/JosueNANTHAKUMAR/gestion-taches
-    cd epytodo/bonus
+    cd gestion-taches/bonus
     ```
 
 2.  **Installer les dépendances**
